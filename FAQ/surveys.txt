@@ -1,0 +1,70 @@
+Q-What’s the process to participate in a survey?
+Ans-Our automated query generation system analyzes your profile information to identify suitable surveys that will appeal to your interest and sends you email invitations to your registered email address. If you see a survey that resonates with your interests, but you haven’t received an invitation for it, you can participate in it by accessing the dashboard section of your account.
+
+Q-Do I have to participate in all the surveys to which I am invited?
+Ans-No, participation in surveys is completely at the discretion of a member. You can participate in the surveys you want to take at your convenience, and there is no penalty even if you leave a survey midway.
+
+Q-How frequently will I be invited for surveys?
+Ans-The frequency of survey invites depends completely on the profile information you have shared. That said, complete and updated profiles are likely to receive more surveys.
+
+Q-What are profile surveys and how do I participate in them?
+Ans-The intent of profile surveys is to help us improve our service quality and enhance the suitability and relevance of surveys sent to members. You can access our profile surveys from the ‘User Dashboard’ of your account.
+
+Q-Can I participate in a survey after it is closed?
+Ans-Unfortunately, no. Every survey has a predefined quota of participation. When the quota is met, the status of the survey is changed to ‘Closed’, after which you will not be able to participate in it. In addition, please note that a survey may close sooner than the closing date specified in the invitation if it reaches its maximum participation.
+
+Q-How many Unipoints will I earn per survey?
+Ans-The Unipoints awarded for each survey vary greatly from survey to survey, depending upon various factors such as the duration and subject. Depending upon the factors at play, a completed survey entitles you to receive anywhere between 10 and 10,000 UniPoints, and in some special surveys, the rewards could be even higher.
+
+Q-How much time does it take to complete a survey?
+Ans-Similar to rewards, the length of surveys varies and strictly depends upon their nature and objective.
+
+Q-Why haven’t I received any survey invitations?
+Ans-Our members are invited to participate in a survey only if their profile information matches its nature and requirements. If you haven’t received any invitations in a while, we request you to wait for our system to find a suitable survey that matches your information. Please note that complete and updated member profiles are more likely to receive survey invites.
+
+Q-Why didn’t I qualify for a survey even after answering a number of questions?
+Ans-Some of the surveys we conduct are targeted at a highly specific group of people, who meet a very narrow set of demographic criteria. In such cases, determining whether someone qualifies for a survey takes more than a few questions. If you haven’t qualified for a specific survey, your responses to the questions asked are not used in the final findings. To increase your chances of qualifying, please ensure you have completed all our member profile surveys.
+
+Q-Why haven’t I received any Unipoints even after completing a survey?
+Ans-There could be several reasons why you haven't received Unipoints after completing a survey. Here are some possibilities to consider:
+Processing Time: Sometimes it takes a while for the system to process and credit your account with Unipoints after completing a survey. It might be worth waiting a bit longer.
+Survey Completion Verification: Ensure that the survey was completed successfully. Incomplete or disqualified surveys might not be eligible for points.
+Account Issues: There could be an issue with your account that is preventing the points from being credited. Check if there are any notifications or messages related to your account status.
+Technical Glitches: Occasionally, technical issues can cause delays in crediting points. If you suspect this, you might want to contact customer support for assistance.
+If none of these reasons seem to apply, then contact the support team at support@opinion-edge.com for further assistance.
+
+Q-Why didn’t I qualify for a survey?
+Ans-Here are some insights into why this might be happening:
+
+Survey Screening: Many surveys use a screening process to determine if you fit the demographic profile they're targeting. This is why you're asked initial questions like zip code, location, age, etc. If you don't meet their specific criteria, you may be redirected or told you don't qualify. This process can sometimes feel repetitive and frustrating, especially if you're disqualified after investing time in answering initial questions.
+
+Third-Party Survey Platforms: Some survey websites or platforms act as intermediaries and aggregate surveys from various sources. This means you may be directed to multiple sites to complete different parts of a single survey. Each site might ask for similar demographic information as they're gathering data to match you with relevant surveys.
+
+Quality Control: Survey providers often use multiple questions to verify consistency in responses and ensure data accuracy. This helps them identify and filter out respondents who may not be providing reliable information. While this can be frustrating, it's a necessary step to maintain the integrity of the survey results.
+
+Complex Survey Routing: Some surveys are designed with complex routing logic that determines which questions you're asked based on your previous responses. This can result in a longer survey experience with seemingly repetitive questions.
+
+To minimize frustration and maximize your chances of completing surveys successfully:
+
+Look for survey invitations that provide clear information about the survey length.
+Be honest and consistent in your responses to avoid being disqualified.
+Keep in mind that disqualifications are a normal part of the survey-taking process and don't reflect on you personally.
+While it can be frustrating, patience and persistence can lead to the successful completion of surveys that match your demographic profile.
+
+Q-While taking a survey, I received a ‘Quote Full’ notification. What does it mean?
+Ans-Some surveys have a limit on the number of participants, which is also called ‘quota’. If you’ve received the ‘Quota Full’ message while taking a survey, it means that the required number of responses has been achieved. In such a case, you will not be able to complete the survey.
+
+Q-What does ‘LOI’ stand for?
+Ans-LOI simply means the ‘Length of Interview’, which is the average time taken by a member to complete the survey.
+
+Q-I have received a ‘Security terminate’ notification. What does it mean?
+Ans-Opinion Edge leverages several security measures to ensure absolutely no compromises are made in the quality of surveys. If a member receives a ‘Security terminate’ notification, it implies that they have been disqualified from the survey due to security reasons. A member can also be disqualified if we find they have tried to play round the system to qualify for a survey.
+
+Q-Do the surveys I take try to sell me any products or services?
+Ans-No, none of our surveys are intended to make our members buy any product or service. The surveys are conducted purely to gather market intelligence and participant information and responses are never used to sell or promote a product or service. In addition, you will not receive any ads or promos due to joining our survey panel.
+
+Q-Do I have to sign up to participate in a survey?
+Ans-Yes, before you can participate in any of our surveys, you will have to become a registered member. This is particularly important to ensure that surveys are assigned only to the users matching their specific criteria.
+
+Q-How are survey responses used?
+Ans-All responses are collected and analyzed to reach a conclusion, as required by the brand for which the survey is conducted. In general, the responses are eventually used to improve various products and services.

@@ -1,0 +1,54 @@
+Q-Can I change my registered email address after signing up?
+Ans-Yes, you can change the registered email address. To change your email address, you need to send a request to support@opinion-edge.com from the email address that needs to be updated and verify the same email address from your account.
+
+Q-How do I change my password?
+Ans-To change your password, you need to visit the ‘My Profile’ section in your account. Once you have logged in using your old password, you can update your password in the profile section. If you face any issues or challenges in changing your password, please email support@opinion-edge.com.
+
+Q-I have moved into a new place. How do I update the address?
+Ans-Similar to changing your password, the mailing address can also be updated through the ‘My Profile’ section in your account. Simply log in using your username and password, then visit the profile section to update your mailing address. If you face any issues or challenges in updating your address, please email support@opinion-edge.com.
+
+Q-Can I change my date of birth?
+Ans-Although Opinion Edge allows panelists to change their date of birth after registration, it is not a self-service process. To change your date of birth, you need to email a valid date of birth proof document or national ID proof to support@opinion-edge.com.
+
+Q-Can I change my country?
+Ans-Just like the date of birth, you can request to change your country, but you cannot do it yourself. To change your country, you will need to write to us at support@opinion-edge.com and we’ll take it from there.
+
+Q-How do I update my personal info?
+Ans-To update your personal info, start by logging in to your account and then click on the ‘My Profile’ section at the left of the page. After clicking on the tab, you will be directed to the page from which you can update your personal info.
+
+Q-Can people from any country become a member?
+Ans-Yes. Opinion Edge is a global community of panelists and welcomes people from all countries to join our panel. All you need to do is sign up with us, after which you can start participating in our surveys and complete other activities to earn rewards.
+
+Q-How do I recover a forgotten password?
+Ans-Recovering a forgotten password is simple and easy. All you need to do is click on the ‘Forgot Password’ link that you can find on the homepage of the panel website. After clicking on the link, you will be asked to enter your registered email address, to which we will send a link to reset your password.
+
+Q-How can I delete my account?
+Ans-If you’re sure you want your account deleted, then you can do it from your own account. Just login to your account, go to Personal details and on the right side you'll find the option to delete your account. Should you have any queries or need assistance, please email us at support@opinion-edge.com.
+
+Q-How can I cancel to receive survey mail?
+Ans-As an Opinion Edge panelist, you have the option to unsubscribe to survey mails at any time. To unsubscribe from receiving our surveys and offers, all you have to do is click on the unsubscribe link provided in the Survey email. If you would like to share anything else regarding our services, please email us at support@opinion-edge.com.
+
+Q-Can I rejoin after canceling my membership?
+Ans-Yes, you can rejoin our panel even if you have canceled your membership in the past. That said, all memberships are governed by our community policies; please read the ‘Terms and Conditions’ of our community membership for details or email us at support@opinion-edge.com.
+
+Q-I canceled my membership after requesting reward redemption. Will I receive the rewards?
+Ans-Yes, if you cancel your membership after requesting reward redemption, your redemption request will still be processed. If you face any difficulty in processing, please email us at support@opinion-edge.com.
+
+Q-How can I upgrade to the next level?
+Ans-There are multiple criteria for level upgrading, encompassing factors such as user survey participation, the quality of responses, client rejection history, and no rejected redemptions. Once a user meets these criteria, they are automatically elevated to the next level.
+
+Q-I have successfully redeemed many times, but I am still at the same level. Why?
+Ans-Successful redemption is one of the criteria for a level upgrade but not the only one. To be upgraded to the next level, a user must actively participate in surveys, share honest opinions and accurate information, and must not receive any rejections from clients on their survey responses.
+
+Q-Why should I submit the W9 form? (Only for US users)
+Ans-To ensure compliance with tax regulations, it's necessary for you to submit a W9 form and provide your SSN details. The W9 form helps verify your name, address, and tax identification number, which are essential for individuals receiving income. Information gathered from the W-9 form is typically used to generate a 1099 tax form, which is crucial for income tax filing purposes.
+
+Q-I've successfully redeemed many times, but now I'm unable to. When I try to redeem,I get a pop-up that says, Submit your W9 form (Only for US users).
+Ans-Members who have already redeemed $300 are required to share their SSN details and submit the W9 form. Until the W9 form is verified and accepted, users are not allowed to redeem their next reward.
+
+
+Q-I submitted the W9 form still I’m not able to redeem it. Why? (Only for US users)
+Ans-Once the W9 form is submitted, it is verified by our team. Upon successful verification, members are allowed to make their next redemption. However, if the verification is not successful, members are not allowed to redeem. Additionally, any redemption requests already made are also declined.
+
+Q-I submitted the W9 form still my redemption request was declined. Why? (Only for US users)
+Ans-Once the W9 form is submitted, it is verified by our team. If the verification is not successful, any redemption request made by the user is declined.

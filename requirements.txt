@@ -1,41 +1,38 @@
-# LLM + Google GenAI
+# ==== LLM & Google Generative AI ====
 google-generativeai
 google-cloud-aiplatform
 
-# Embeddings (Optional: if using Sentence Transformers or Hugging Face)
+# ==== Embeddings (Optional) ====
 sentence-transformers
 transformers
 torch
 
-# Vector DB
+# ==== Vector Store ====
 chromadb
 
-# Text Processing
+# ==== Text Processing & LLM Orchestration ====
 tiktoken
-unstructured  # (for parsing PDF, HTML, etc.)
-langchain  # optional but helpful
+unstructured
+langchain
 
-# Backend
-fastapi
+# ==== Backend (API Server) ====
+fastapi[all]
 uvicorn
 
-# Frontend (optional)
+# ==== Frontend (Optional UI) ====
 streamlit
 
-# For PDFs, HTML parsing (optional)
+# ==== Document Parsing (Optional) ====
 pdfplumber
 beautifulsoup4
 
-# Data utilities
+# ==== Data Utilities ====
 pandas
 numpy
 
-# CORS (for frontend-backend connection)
-fastapi[all]  # includes pydantic, starlette, and CORS middleware
-
-# Environment management
+# ==== Environment & Config Management ====
 python-dotenv
 
-# JSON and typing (if needed)
+# ==== JSON & Typing ====
 orjson
 typing_extensions
