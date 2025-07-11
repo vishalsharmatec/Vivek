@@ -1,0 +1,41 @@
+# LLM + Google GenAI
+google-generativeai
+google-cloud-aiplatform
+
+# Embeddings (Optional: if using Sentence Transformers or Hugging Face)
+sentence-transformers
+transformers
+torch
+
+# Vector DB
+chromadb
+
+# Text Processing
+tiktoken
+unstructured  # (for parsing PDF, HTML, etc.)
+langchain  # optional but helpful
+
+# Backend
+fastapi
+uvicorn
+
+# Frontend (optional)
+streamlit
+
+# For PDFs, HTML parsing (optional)
+pdfplumber
+beautifulsoup4
+
+# Data utilities
+pandas
+numpy
+
+# CORS (for frontend-backend connection)
+fastapi[all]  # includes pydantic, starlette, and CORS middleware
+
+# Environment management
+python-dotenv
+
+# JSON and typing (if needed)
+orjson
+typing_extensions
